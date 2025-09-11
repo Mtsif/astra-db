@@ -1,6 +1,6 @@
 # ASTRA: Atlas of STress Response Activity  
 
-[![Website](https://img.shields.io/badge/Website-astra--db.com-blue)](https://astra-db.com)  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+[![Website](https://img.shields.io/badge/Website-astra--db.com-blue)](https://astra-db.com)  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 
 **ASTRA** is a curated database for exploring genome-wide RNA expression alterations in human cell lines exposed to molecular stresses.  It integrates transcriptomic datasets across **heat shock, oxidative stress, hypoxia, and DNA damage** conditions to support research in stress biology and transcriptional regulation.  
 
