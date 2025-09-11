@@ -52,13 +52,3 @@ If you use **ASTRA** in your research, please cite:
 
 ---
 
-## 🏛️ Acknowledgements  
-
-Developed at **Democritus University of Thrace**.  
-Contact: *Antonis Giannakakis* – antgian [at] mbg.duth.gr  
-
----
-
-## 📜 License  
-
-Released under the [MIT License](LICENSE).  
