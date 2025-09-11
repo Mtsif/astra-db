@@ -1,6 +1,6 @@
 # ASTRA: Atlas of STress Response Activity  
 
-[![Website](https://img.shields.io/badge/Website-astra--db.com-blue)](https://astra-db.com)  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) ![Version](https://img.shields.io/badge/version-1.0-blue.svg) [![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-ff4b4b?logo=streamlit&logoColor=white)](https://streamlit.io/)  [![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+[![Website](https://img.shields.io/badge/Website-astra--db.com-blue)](https://astra-db.com)  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) ![Version](https://img.shields.io/badge/version-1.0-blue.svg) [![Streamlit](https://img.shields.io/badge/App-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)   [![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
 
 **ASTRA** is a curated database for exploring genome-wide RNA expression alterations in human cell lines exposed to molecular stresses.  It integrates transcriptomic datasets across **Heat Shock Stress Response, Oxidative Stress Response, Hypoxia Stress Response, and  DNA Damage Response** conditions to support research in stress biology and transcriptional regulation.  
 
