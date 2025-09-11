@@ -4,6 +4,10 @@
 
 **ASTRA** is a curated database for exploring genome-wide RNA expression alterations in human cell lines exposed to molecular stresses.  It integrates transcriptomic datasets across **heat shock, oxidative stress, hypoxia, and DNA damage** conditions to support research in stress biology and transcriptional regulation.  
 
+<p align="center">
+  <img src="images/graphical_abstract.png" alt="Graphical Abstract" width="600">
+</p>
+
 ---
 
 ## 🚀 Features  
