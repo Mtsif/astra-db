@@ -29,16 +29,13 @@
 
 ---
 
-## 📂 Download  
+## 📂 Data Availability  
 
-Curated datasets are available in `.tsv` format:  
+The **ASTRA** database and its content are freely accessible to all users.  
+- Web access: [https://astra-db.com](https://astra-db.com)  
+- Zenodo repository (archived datasets): [10.5281/zenodo.15885686](https://doi.org/10.5281/zenodo.15885686)  
 
-- `harmonized_dataset.tsv` – merged study & sample metadata  
-- `study_metadata.tsv` – publication-level metadata  
-- `sample_metadata.tsv` – individual sample details  
-- `gene_annotations.tsv` – gene symbols, Ensembl IDs, biotypes  
-- `expression_data.tsv` – TPM expression matrix  
-- `differential_expression.tsv` – fold changes & p-values  
+All curated datasets, metadata, and analysis results can be explored through the ASTRA web interface or downloaded directly from Zenodo.
 
 ---
 
