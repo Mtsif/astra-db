@@ -12,11 +12,9 @@
 
 ## 🚀 Features  
 
-- **Study Selection** – filter and select RNA-seq studies by stress type, tissue, timepoints, dosage, or genotype  
+- **Browse Datasets** – explore curated stress-related RNA-seq datasets retrieved from GEO, encompassing diverse experimental designs
 - **Gene Search** – query expression across all or selected studies  
 - **Differential Expression Analysis** – explore harmonized comparisons with volcano plots & summary statistics  
-- **Data Statistics** – overview of studies, samples, publications, and cell types  
-- **Resources** – download curated metadata, TPM expression matrices, and differential expression results  
 
 👉 Try it here: [astra-db.com](https://astra-db.com)  
 
