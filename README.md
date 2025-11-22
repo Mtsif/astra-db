@@ -42,6 +42,7 @@ All curated datasets, metadata, and analysis results can be explored through the
 ## 📖 Citation  
 
 If you use **ASTRA** in your research, please cite: 
+
 Margaritis Tsifintaris, Dimitris Grigoriadis, Michail Sitmalidis, Panagiotis Repanas, Evdoksia K Lazarashvili, Christina Anastasiadi, Ioannis Kavakiotis, Raphael Sandaltzopoulos, Georgios A Pavlopoulos, Antonis Giannakakis, ASTRA: a comprehensive resource of stress-induced transcriptional activity in human cell lines, Nucleic Acids Research, 2025;, gkaf1174
 
 Read full article here: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1174/8329104
