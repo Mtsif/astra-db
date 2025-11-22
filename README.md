@@ -33,7 +33,7 @@
 
 The **ASTRA** database and its content are freely accessible to all users.  
 - Web access: [https://astra-db.com](https://astra-db.com)  
-- Zenodo repository (archived datasets): [10.5281/zenodo.15885686]([https://doi.org/10.5281/zenodo.15885686](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1174/8329104))  
+- Zenodo repository (archived datasets): [10.5281/zenodo.15885686]([https://doi.org/10.5281/zenodo.15885686](https://doi.org/10.5281/zenodo.15885686)
 
 All curated datasets, metadata, and analysis results can be explored through the ASTRA web interface or downloaded directly from Zenodo.
 
@@ -41,7 +41,7 @@ All curated datasets, metadata, and analysis results can be explored through the
 
 ## 📖 Citation  
 
-If you use **ASTRA** in your research, please cite:  
+If you use **ASTRA** in your research, please cite: [https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1174/8329104](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1174/8329104)
 
 > *ASTRA: A Comprehensive Resource for Stress-Induced Gene Expression in Human Cell Lines*  
 
